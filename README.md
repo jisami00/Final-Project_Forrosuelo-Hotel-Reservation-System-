@@ -1,1 +1,2 @@
 (DONE REVISED) ENHANCEMENT RECOMMENDATION DISCUSSION
+Updated and optimized payment window
